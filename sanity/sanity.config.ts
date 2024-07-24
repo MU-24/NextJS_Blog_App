@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'learning-sanity-project',
 
-  projectId: 'l7ld9l7n',
+  projectId: '',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
